@@ -1,0 +1,6 @@
+{
+  "name": "ResuMock AI",
+  "description": "AI-powered career preparation SaaS platform featuring AI Resume Builder, ATS Job Description Matcher, Multi-Tier AI Interviewer, Anti-Malpractice Proctoring, and Performance Analytics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
